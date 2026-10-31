@@ -1,0 +1,22 @@
+{
+  "wheel_id": 571,
+  "structure": "umbrella",
+  "slug": "financebrokerbrisbane-101",
+  "project": "home-loan-brokers-brisbane-quotes-explained-74de99fcd721572c7c6",
+  "parent_t1_ref": "financebrokerbrisbane-150",
+  "node_role": "feeder",
+  "money_target": "financebrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane quotes explained",
+  "intended_url": "https://sitesau.github.io/financebrokerbrisbane-101/",
+  "tier": "T2",
+  "writeback_nonce": "d2d4cb749c653260",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-before-you-start-1fcb0025ffeed097/",
+      "anchor": "more on home loan brokers brisbane before you start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
